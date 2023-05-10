@@ -6,3 +6,6 @@ This repository links to the Tableau dashboard that illustrates global volcano d
 ## Screenshot of dashboard
 
 ![Volcano_dashboard](Volcano_dashboard.png)
+
+### Data source citation
+National Geophysical Data Center / World Data Service (NGDC/WDS): NCEI/WDS Global Significant Volcanic Eruptions Database. NOAA National Centers for Environmental Information. doi:10.7289/V5JW8BSH
